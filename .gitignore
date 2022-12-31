@@ -1,6 +1,7 @@
 Win32/
-*.dir/
 Debug/
+Release/
+build/
 CMakeFiles/
 *.cmake
 CMakeCache.txt
