@@ -1,0 +1,9 @@
+Win32/
+*.dir/
+Debug/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+*.vcxproj
+*.vcxproj.filters
+*.sln
